@@ -1,6 +1,0 @@
-# Uji Kimia Tanah
-
-Ini adalah pustaka untuk menguji parameter kimia tanah.
-Ada 7 parameter yang disediakan di versi ini.
-
-Versi 0.1.0
